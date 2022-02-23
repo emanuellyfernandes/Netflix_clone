@@ -25,7 +25,7 @@ O projeto é um clone  da Netflix (é uma provedora global de filmes e séries d
 
 ## Autor
 
-* **Cesar dos Santos de Almeida** - *responsável pela construção e desenvolvimento do projeto*
+* **Emanuelly Fernandes** - *responsável pela construção e desenvolvimento do projeto*
 
 ## Licença
 
