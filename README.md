@@ -20,6 +20,8 @@ O projeto é um clone  da Netflix (é uma provedora global de filmes e séries d
 
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - CJavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web.
 
+* [Glider.js](https://nickpiscitelli.github.io/Glider.js/) - uma lista de rolagem nativa incrivelmente rápida, pequena, totalmente responsiva, compatível com dispositivos móveis, sem dependência e com controles de paginação.
+
 
 ## Autor
 
